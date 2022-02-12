@@ -126,8 +126,7 @@
   </tr>
 
 </table>
-<a href="hobbies.html">
-  <h3>Hobbies</h3>
+  <h3><a href="hobbies.html">Hobbies</a></h3>
   <h3><a href="contact.html">contact me</a></h3>
 
 
