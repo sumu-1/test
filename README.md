@@ -8,7 +8,7 @@
   <meta name="author" content="Piggy">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--Facebook meta tag for shared url-->
-  <meta property="og:image" content="images/pig-modified.png">
+  <meta property="og:image" itemprop="image" content="images/pig-modified.png">
   <meta property="og:description" content="Basic website on self details about himself.
     The website also contains details of Mr. piggy and his achivements.">
   <meta property="og:title" content="piggy's personal website">
