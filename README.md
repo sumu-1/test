@@ -1,4 +1,3 @@
-# test
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
@@ -8,7 +7,10 @@
   <meta name="author" content="Piggy">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!--Facebook meta tag for shared url-->
-  <meta property="og:image" itemprop="image" content="images/pig-modified.png">
+  <meta property="og:image" iteamprop="image" content="images/pig-modified.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="256">
+<meta property="og:image:height" content="256">
   <meta property="og:description" content="Basic website on self details about himself.
     The website also contains details of Mr. piggy and his achivements.">
   <meta property="og:title" content="piggy's personal website">
@@ -126,7 +128,8 @@
   </tr>
 
 </table>
-  <h3><a href="hobbies.html">Hobbies</a></h3>
+<a href="hobbies.html">
+  <h3>Hobbies</h3>
   <h3><a href="contact.html">contact me</a></h3>
 
 
