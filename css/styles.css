@@ -1,0 +1,33 @@
+body{
+  background-image: linear-gradient(to right, skyblue,lightgreen)
+
+}
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+
+}
+img{
+  height: 80px;
+}
+td{
+  height: 50px;
+
+}
+li{
+  font-size: large;
+  height: 50px;}
+h1,h2{
+  color: #655D8A;}
+h3,h4,h5,h6{
+  color: #1572A1;
+}
+.para{
+  height: 30px;
+}
+label{
+  height: 30px;
+}
