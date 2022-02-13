@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
 
 <head>
+  <!-- search metatag -->
   <meta charset="utf-8">
   <meta name="keywords" content="Resume,details,personal file">
   <meta name="author" content="Piggy">
@@ -10,7 +11,7 @@
   <meta property="og:image" iteamprop="image" content="images/pig-modified.png">
   <meta property="og:image:type" content="image/png">
   <meta property="og:image:width" content="256">
-<meta property="og:image:height" content="256">
+  <meta property="og:image:height" content="256">
   <meta property="og:description" content="Basic website on self details about himself.
     The website also contains details of Mr. piggy and his achivements.">
   <meta property="og:title" content="piggy's personal website">
@@ -19,25 +20,31 @@
   <!--icon meta tag-->
   <link rel="icon" href="images/pig-modified.png" type="image/x-icon">
   <title>piggy's personal website</title>
+  <link rel="stylesheet" href="css/styles.css">
+
+
+
 </head>
 
 <body>
   <table cellspacing="20">
     <tr>
       <td><a title="piggy"><img src="images/pig-modified.png" alt="piggy's profile picture" download="piggy.png" height="120"></a></td>
-      <td><h1>piggy</h1>
-      <p><em>Founder of <strong>Crispy Bacon</strong></em></p>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem
-        incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam,
-        quis nostrud exercitain culpa qui officia deserunt mollit anim id est labo.
-      </p></td>
+      <td>
+        <h1>piggy</h1>
+        <p><em>Founder of <strong>Crispy Baccon</strong></em></p>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem
+          incididunt ut labore et dolore magna aliqua.<br> Ut enim ad minim veniam,
+          quis nostrud exercitain culpa qui officia deserunt mollit anim id est labo.
+        </p>
+      </td>
     </tr>
   </table>
 
 
 
-  <hr size="1" noshade>
+  <hr>
   <h3>Stayed Here</h3>
   <ul>
     <li><a href="https://www.dairyfarmgroup.com/en-US/">
@@ -83,54 +90,54 @@
   </a>
   <hr>
   <h3>Skills</h3>
-<table cellspacing="10">
-  <tr>
-    <td>
-      <table cellspacing="10">
-      <tr>
-        <td>Eating</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Sleeping</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Walking</td>
-        <td>⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Running</td>
-        <td>⭐</td>
-      </tr>
-    </table>
-</td>
-    <td>
-      <table cellspacing="10">
-      <tr>
-        <td>snoring</td>
-        <td>⭐⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>rolling</td>
-        <td>⭐⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>Pooping</td>
-        <td>⭐⭐⭐</td>
-      </tr>
-      <tr>
-        <td>talking</td>
-        <td>⭐</td>
-      </tr>
-    </table>
-</td>
-  </tr>
+  <table cellspacing="10">
+    <tr>
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>Eating</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Sleeping</td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Walking</td>
+            <td>⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Running</td>
+            <td>⭐</td>
+          </tr>
+        </table>
+      </td>
+      <td>
+        <table cellspacing="10">
+          <tr>
+            <td>snoring</td>
+            <td>⭐⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>rolling</td>
+            <td>⭐⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>Pooping</td>
+            <td>⭐⭐⭐</td>
+          </tr>
+          <tr>
+            <td>talking</td>
+            <td>⭐</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
 
-</table>
-<a href="hobbies.html">
-  <h3>Hobbies</h3>
-  <h3><a href="contact.html">contact me</a></h3>
+  </table>
+  <a href="hobbies.html">
+    <h3>Hobbies</h3></a>
+    <a href="contact.html"><h3>contact me</h3></a>
 
 
 
