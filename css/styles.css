@@ -1,5 +1,7 @@
 body{
-  background-image: linear-gradient(to right, skyblue,lightgreen)
+  background-image: linear-gradient(to right, skyblue,lightgreen);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 
 }
 hr{
